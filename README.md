@@ -1,4 +1,4 @@
-# EOSB SDK Backend
+## EOSB SDK Backend
 
 [![CircleCI](https://circleci.com/gh/teameosb/eosb-sdk-backend.svg?style=svg)](https://circleci.com/gh/teameosb/eosb-sdk-backend)
 [![Go Report Card](https://goreportcard.com/badge/github.com/teameosb/eosb-sdk-backend)](https://goreportcard.com/report/github.com/teameosb/eosb-sdk-backend)
